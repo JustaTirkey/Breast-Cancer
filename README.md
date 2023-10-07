@@ -1,7 +1,7 @@
 
 # Breast Cancer Prediction 
 
-This is a machine learning project on the breast Cancer dataset to predict if a person is likely to be diagnosised with breast cancer or not. In this I have tested three very basic models to predict the diagnosis. The models are namely logistic regression, deccision tree and random forest.  
+This is a machine learning project on the breast Cancer dataset to predict if a person is likely to be diagnosised with breast cancer or not. In this I have tested three very basic models to predict the diagnosis. The models are namely logistic regression, decision tree and random forest.  
 
 
 ## Libraries used
