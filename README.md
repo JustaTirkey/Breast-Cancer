@@ -24,11 +24,11 @@ Steps to implement the project
 ## Accuracy of the model 
 I have tested it for three models here are the score for different models for both training and testing set.
 
-| |Model|training Score|testing Score|
-|-|-----|---------------|-------------|
-|1.|logistic regression|0.989 |0.956|
-|2.|Decision Tree|1.0|0.938|
-|3.|Random Forest|0.997|0.973|
+|Model|training Score|testing Score|
+|-----|---------------|-------------|
+|Logistic regression|0.989 |0.956|
+|Decision Tree|1.0|0.938|
+|Random Forest|0.997|0.973|
 
 
 As evident the decision tree model is overfitted and we get the best results with the random forest model. So finally Random forest should be used for future predictions. 
