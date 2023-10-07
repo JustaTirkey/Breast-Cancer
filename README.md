@@ -23,6 +23,7 @@ Steps to implement the project
 
 ## Accuracy of the model 
 I have tested it for three models here are the score for different models for both training and testing set.
+
                          [training_score   teseting_score]
 1. logistic regression : [0.989                     0.956]
 2. Decision Tree       : [1.0                       0.938]
